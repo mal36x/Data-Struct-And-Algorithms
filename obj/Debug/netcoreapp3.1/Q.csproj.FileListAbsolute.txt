@@ -1,0 +1,11 @@
+c:\Users\Malcolm\testprojects\Q\obj\Debug\netcoreapp3.1\Q.csprojAssemblyReference.cache
+c:\Users\Malcolm\testprojects\Q\obj\Debug\netcoreapp3.1\Q.AssemblyInfoInputs.cache
+c:\Users\Malcolm\testprojects\Q\obj\Debug\netcoreapp3.1\Q.AssemblyInfo.cs
+c:\Users\Malcolm\testprojects\Q\bin\Debug\netcoreapp3.1\Q.exe
+C:\Users\Malcolm\testprojects\Q\bin\Debug\netcoreapp3.1\Q.deps.json
+C:\Users\Malcolm\testprojects\Q\bin\Debug\netcoreapp3.1\Q.runtimeconfig.json
+C:\Users\Malcolm\testprojects\Q\bin\Debug\netcoreapp3.1\Q.runtimeconfig.dev.json
+c:\Users\Malcolm\testprojects\Q\bin\Debug\netcoreapp3.1\Q.dll
+c:\Users\Malcolm\testprojects\Q\bin\Debug\netcoreapp3.1\Q.pdb
+c:\Users\Malcolm\testprojects\Q\obj\Debug\netcoreapp3.1\Q.dll
+c:\Users\Malcolm\testprojects\Q\obj\Debug\netcoreapp3.1\Q.pdb
